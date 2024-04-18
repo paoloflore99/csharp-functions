@@ -98,6 +98,11 @@ namespace csharp_functions
                 return somma;
             }
 
+            //devo fare il controllo del clonare array
+
+            Console.WriteLine("controllo array originale");
+            StampaArray(numeri);
+
 
 
         }
