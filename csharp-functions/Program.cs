@@ -8,7 +8,7 @@
 
             void virgola()
             {
-                Console.Write(" , ");
+                Console.Write(" , ELEMENTO ");
             }
 
 
@@ -34,9 +34,15 @@
             int[] numeri = { 1,2,3,4,5,6,7,8,9 };
             StampaArray(numeri);
 
+            //int Quadrato(int numero);
+
+            //int[] ElevaArrayAlQuadrato(int[] array)
+            {
+               
+            }
 
 
-            
+
         }
     }
 }
